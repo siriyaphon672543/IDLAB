@@ -354,7 +354,7 @@ table, th, td {
     
     <button class="button button1" id="submit">ส่งคำตอบ</button>
    
-   
+    <a href="form2.php" class="button button2">NEXT</a>
 </div></p>
 
 <style>
